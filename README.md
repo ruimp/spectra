@@ -4,7 +4,7 @@
 
 This is a simple python module designed to facilitate the comparison of spectra by equivalent width comparison. The design if purposely modular, so the user can edit and hack together exactly what they need for their use case with minimal adaptation.
 
-### Temperature estimationg
+### Temperature estimation
 ![image](figures/temperature_estimation_star1.png)
 
 ### Spectra comparison
